@@ -6,5 +6,5 @@
 
 ### loop trick :
 - i*i < n , i < sqrt(n)
-    > Use some time use the loop by half using sqrt method(reduces Complexity).give this as a condition in loops.
+    > Some time use the loop by half using sqrt method(reduces Complexity).give this as a condition in loops.
     
