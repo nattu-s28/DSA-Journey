@@ -5,5 +5,6 @@
     > it deletes tha last digit of the number.
 
 ### loop trick :
-- Use some time use the loop by half using sqrt method(reduces Complexity).give this as a condition in loops.
-    > i*i < n , i < sqrt(n)
+- i*i < n , i < sqrt(n)
+    > Use some time use the loop by half using sqrt method(reduces Complexity).give this as a condition in loops.
+    
